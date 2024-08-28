@@ -17,8 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardaozcelk&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ardaozcelk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardaozcelk&show_icons=true&theme=tokyonight&locale=en" alt="ardaozcelk" /></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ardaozcelk/ardaozcelk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ardaozcelk/ardaozcelk/output/github-contribution-grid-snake.svg">
